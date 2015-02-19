@@ -1,0 +1,32 @@
+#fi{
+	min-height:750px;
+	width:1024px;
+	margin:50px auto;
+}
+#fi2{
+	
+	width:250px;
+	margin:50px auto;
+}
+
+#fi legend{
+	font:bold 20px arial;
+}
+#fi2 legend{
+	font:bold 18px arial;
+}
+
+#fi ul li{
+	list-style-type: none;
+	border-top:2px solid #424242;
+	border-bottom:2px solid #424242;
+	margin-top:10px;
+	padding-top:10px;
+	margin-right:35px;
+}
+#fi a#add{
+	margin-left:400px;
+}
+.notif{
+text-align:center;
+}

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<link rel="stylesheet" type="text/css" href="./css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<title>Главная страница сайта новостей.</title>
 	</head>
 	<body>
@@ -23,7 +23,7 @@
 			</form>
 			
 		</fieldset>
-		<p class='notif'><a href="./index.php">Вернуться на главную</a></p>
+		<p class='notif'><a href="index.php">Вернуться на главную</a></p>
 	
 	</body>
 
